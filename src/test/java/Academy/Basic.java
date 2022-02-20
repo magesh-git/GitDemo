@@ -17,5 +17,12 @@ public class Basic {
 		{
 			System.out.println("Car DoorLock is working fine");
 		}
+		
+		@Test
+		public void Braketest()
+
+		{
+			System.out.println("Brake is working fine");
+		}
 	}
 
