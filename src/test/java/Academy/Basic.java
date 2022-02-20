@@ -24,5 +24,13 @@ public class Basic {
 		{
 			System.out.println("Brake is working fine");
 		}
+		
+		
+		@Test
+		public void Clutchtest()
+
+		{
+			System.out.println("Clutch is working fine");
+		}
 	}
 
