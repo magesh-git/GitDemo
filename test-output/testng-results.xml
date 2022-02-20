@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-20T19:29:14 IST" name="Default suite" finished-at="2022-02-20T19:29:14 IST" duration-ms="162">
+    <groups>
+    </groups>
+    <test started-at="2022-02-20T19:29:14 IST" name="Default test" finished-at="2022-02-20T19:29:14 IST" duration-ms="162">
+      <class name="Academy.Basic">
+        <test-method signature="DoorLockTest()[pri:0, instance:Academy.Basic@611889f4]" started-at="2022-02-20T19:29:14 IST" name="DoorLockTest" finished-at="2022-02-20T19:29:14 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DoorLockTest -->
+        <test-method signature="WiperTest()[pri:0, instance:Academy.Basic@611889f4]" started-at="2022-02-20T19:29:14 IST" name="WiperTest" finished-at="2022-02-20T19:29:14 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WiperTest -->
+      </class> <!-- Academy.Basic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
